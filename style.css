@@ -1,0 +1,12 @@
+html {
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+body {
+    width: 600px;
+    margin: 0 auto;
+    padding: 0 20px 20px 20px;
+  }
+h1 {
+    background-color: #FF9500;
+}
